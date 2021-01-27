@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/calc-moment-force/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/calc-moment-force/static/js/main.bae1539c.chunk.js",
-    "main.js.map": "/calc-moment-force/static/js/main.bae1539c.chunk.js.map",
+    "main.js": "/calc-moment-force/static/js/main.c8eabe18.chunk.js",
+    "main.js.map": "/calc-moment-force/static/js/main.c8eabe18.chunk.js.map",
     "runtime-main.js": "/calc-moment-force/static/js/runtime-main.c85668be.js",
     "runtime-main.js.map": "/calc-moment-force/static/js/runtime-main.c85668be.js.map",
     "static/css/2.3c328e4c.chunk.css": "/calc-moment-force/static/css/2.3c328e4c.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.3c328e4c.chunk.css",
     "static/js/2.f166fe78.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.bae1539c.chunk.js"
+    "static/js/main.c8eabe18.chunk.js"
   ]
 }
